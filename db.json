@@ -1,0 +1,6 @@
+{
+    "tasks": [
+      { "id": 1, "title": "Task 1", "description": "Description for Task 1" ,"image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg" },
+      { "id": 2, "title": "Task 2", "description": "Description for Task 2","image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg" }
+    ]
+  }
